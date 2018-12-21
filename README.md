@@ -6,3 +6,4 @@
 
 https://github.com/bulutyazilim/awesome-datascience
 
+[iOS developer roladmap](https://www.reddit.com/r/iOSProgramming/comments/82w6qa/2018_roadmap_to_ios_development/)
